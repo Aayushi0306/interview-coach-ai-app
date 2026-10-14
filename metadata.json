@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Prep Buddy",
+  "description": "Interactive mock interview practice and coaching platform for college students covering HR, SQL, Python, Excel, Power BI, and Aptitude with instant feedback and scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
